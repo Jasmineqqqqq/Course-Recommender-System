@@ -1,0 +1,3 @@
+All 16 notebooks validated and rendered using nbformat 5.10.4 and nbconvert 7.17.1, matching the versions displayed in your GitHub error. All notebooks use format 4.4, without cell IDs. Code, text, cell order and code outputs preserved; code not executed. Live GitHub rendering of these replacement files has not been verified.
+
+Extract the ZIP and upload the .ipynb files into the existing repository folder with the exact original filenames. Commit the changes. Start with 2.3_lab_jupyter_content_clustering.ipynb.
